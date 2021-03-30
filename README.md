@@ -40,3 +40,4 @@ Omni Sight is for Traders and investors interested in trading crypto-currencies.
 
 ### User Profile-page
 ![Profile](./assets/User-profile-page.png)
+
