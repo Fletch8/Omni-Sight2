@@ -17,3 +17,26 @@ Omni Sight is for Traders and investors interested in trading crypto-currencies.
 - The user will be able to view the about page and their personal profile page
 - The user will be able to change their username and profile pic
 - When the user logs out the user will be redirected to the home page
+
+## Wireframes
+
+## Overview
+![Overview](/assets/Omni-sight-wireframes.png)
+
+### Home page
+![Home page](./assets/Home-page-for-public-users.png)
+
+### About-page
+![About-page](./assets/about-page.png)
+
+### Sign-up
+![sign-up](./assets/create-new-account.png)
+
+### Log-in 
+![log-in](./assets/log-in.png)
+
+### User Dashboard 
+![Dashboard](./assets/Logged-in-user-home-page.png)
+
+### User Profile-page
+![Profile](./assets/User-profile-page.png)
