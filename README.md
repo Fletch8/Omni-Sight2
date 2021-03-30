@@ -20,6 +20,9 @@ Omni Sight is for Traders and investors interested in trading crypto-currencies.
 
 ## Wireframes
 
+## ERD Diagram
+![ERD](./assets/OmnSightERD.png)
+
 ## Overview
 ![Overview](/assets/Omni-sight-wireframes.png)
 
