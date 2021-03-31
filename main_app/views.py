@@ -10,7 +10,10 @@ def index(request):
   return render(request, 'index.html')
 
 def about(request):
-    return render(request, 'about.html')
+  return render(request, 'about.html')
+
+def login(request):
+  return render(request, 'login.html')
 
 def sign_up(request):
   error_message= ''
